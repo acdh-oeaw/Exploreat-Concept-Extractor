@@ -6,9 +6,13 @@ This is a test code and an example to show how the questionnaire concept extract
 1. Loads an original question from dobe database
 2. Tokenize the question text and return the concepts in the text. The concept extraction is done in three ways after
 removing the stop words and the punctuation marks
+
 2.1 Concepts in their lose sense which includes individual tokens other than stop words
+
 2.2 Concepts in strict sense which only includes nouns from 2.1
+
 2.3 Concepts in a very strict sense which includes concepts that have an entry in Germanet
+
 
 Run this example to test which of the above options work for you
 
