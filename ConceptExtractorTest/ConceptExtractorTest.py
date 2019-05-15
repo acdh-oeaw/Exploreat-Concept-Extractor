@@ -16,7 +16,7 @@ from QuestionConceptExtractor.DatabaseReader.ReadQuestion import *
 # 2. Make sure germanet is loaded from  mongodb (follow instruction here https://pypi.org/project/pygermanet/)
 # 3. make sure mysql is up and running with the correct credential.
 # 4. This example is for questions under questionnaire 53. results can be compared with the expert evaluation here.
-
+#
 # Additional steps
 # You may want to remove duplicate concepts (specially different cases (upper,lower))
 # You may also link each question with each concept and send it back to the database.
