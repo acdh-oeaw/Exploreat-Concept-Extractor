@@ -20,7 +20,7 @@ Prerequisites
   1. Make sure you install MySQL connector and all the necessary dependencies in python
   2. Make sure Germanet is loaded from mongodb (follow instruction here https://pypi.org/project/pygermanet/)
   3. make sure MySQL is up and running with the correct credential.
-  4. This example is for questions under questionnaire 53. results can be compared with the expert evaluation here.
+  4. This example is for questions under questionnaire 53. results can be compared with the expert evaluation here (https://docs.google.com/spreadsheets/d/1JbdO5lJQCOine5KMjeKEzXxE5Z_gTgpGu-_Alk1bd6E/edit#gid=964610388).
 
 Additional steps
 You may want to remove duplicate concepts (specially different cases (upper, lower))
